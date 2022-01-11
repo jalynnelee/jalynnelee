@@ -1,7 +1,7 @@
 ### Welcome to the Jalynne land! 
 
 ### This is a log of Jalynne to become a data scientist
-### 데린이의 성장로그 
+### 데린이 제일린의 성장로그 
 <!--
 **jalynnelee/jalynnelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
