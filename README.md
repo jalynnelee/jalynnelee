@@ -1,6 +1,6 @@
-### Hi there 👋
+### Welcome to the Jalynne land! 
 
-## Data Scientist 
+## This is a log of Jalynne to become a data scientist
 
 <!--
 **jalynnelee/jalynnelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
